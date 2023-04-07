@@ -1,4 +1,4 @@
-# -Seaborn_Charts-
+# 👉Seaborn_Charts-
 Seaborn Cheat sheet
 **Seaborn** is a graphic library built on top of Matplotlib. It allows to make your charts prettier, and facilitates some of the common data visualisation needs. What so special about seaborn? Why do we need to use seaborn while we already have Maplotlib? Matplotlib can serve your purpose. It has all the visualization that you need to perform a data storytelling project. But seaborn is special because it comes in with a lot of styles. The style is already built-in. Compared to an ordinary matplotlib plot, an ordinary seaborn plot look a lot nicer!
 
@@ -39,6 +39,7 @@ Seaborn Cheat sheet
     3. Seaborn White Grid Theme
     4. Seaborn White Theme
     5. Seaborn Ticks Theme
-
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F9494541%2F64a78788f4214651f05ad0ffd4adc747%2Fseaborn.PNG?generation=1680878034444922&alt=media)
+    
 <h2>To get all the content, please go through this notebook - </h2>
-## [👉Seaborn Charts🧵](https://www.kaggle.com/code/tazriahelal/seaborn-charts)
+# 👉Seaborn Charts🧵 https://www.kaggle.com/code/tazriahelal/seaborn-charts
